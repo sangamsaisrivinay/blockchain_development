@@ -1,11 +1,13 @@
 # blockchain_development
 <h4>my learning resources</h4>
-<ul><li><a href="https://www.youtube.com/watch?v=X06TQOOBrhM">youtube/telusko-blockchain series</a></li>
+<ul>
 <li><a href="https://developer.bitcoin.org/devguide/block_chain.html">bitcoin.org-understanding working of BTC</a></li>
   </ul>
 <h4>video links</h4>
 <ul>
 <li>blockchain roadmap - insights from telusko learnings <a href="https://www.youtube.com/watch?v=e8NKbusx-Nc">link to the video</a></li>
+  <li><a href="https://www.youtube.com/watch?v=X06TQOOBrhM">youtube/telusko-blockchain series</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLsyeobzWxl7pGh8x5C2hsu3My4ei-eX1Y">youtube/telusko-corda playlist</li>
 </ul>
   <h4>some public blockchains</h4>
   <ul>
