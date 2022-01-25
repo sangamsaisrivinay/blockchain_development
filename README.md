@@ -1,4 +1,8 @@
 # blockchain_development
+<h4>notes from my learning</h4>
+<ul>
+<li><a href="https://github.com/sangamsaisrivinay/blockchain_development/blob/main/telusko-blockchain.pdf">telusko-blockchain</a></li>
+</ul>
 <h4>my learning resources</h4>
 <ul>
 <li><a href="https://developer.bitcoin.org/devguide/block_chain.html">bitcoin.org-understanding working of BTC</a></li>
