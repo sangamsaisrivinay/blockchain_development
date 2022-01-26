@@ -12,6 +12,7 @@
 <h4>my learning resources</h4>
 <ul>
 <li><a href="https://developer.bitcoin.org/devguide/block_chain.html">bitcoin.org-understanding working of BTC</a></li>
+  <li><a href="https://www.javatpoint.com/blockchain-tutorial">javatpoint blockchain</a></li>
   </ul>
 <h4>video links</h4>
 <ul>
@@ -46,6 +47,7 @@
   <h4>terminologies</h4>
   <ul>
   <li><a href="https://www.javatpoint.com/blockchain-merkle-tree">merkle tree</a></li>
+  <li><a href="https://www.javatpoint.com/blockchain-double-spending">double spending</a></li>
   </ul>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
