@@ -42,3 +42,5 @@
   <ul>
   <li><a href="https://nptel.ac.in/courses/106/105/106105235/">NPTEL: Block chain and its applications</a></li>
   </ul>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
