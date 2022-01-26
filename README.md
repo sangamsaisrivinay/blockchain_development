@@ -42,5 +42,10 @@
   <ul>
   <li><a href="https://nptel.ac.in/courses/106/105/106105235/">NPTEL: Block chain and its applications</a></li>
   </ul>
+  
+  <h4>terminologies</h4>
+  <ul>
+  <li><a href="https://www.javatpoint.com/blockchain-merkle-tree">merkle tree</a></li>
+  </ul>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
