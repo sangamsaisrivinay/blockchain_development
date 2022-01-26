@@ -34,7 +34,7 @@
 
 <h4>books and references</h4>
 <ul>
-  <li><a href="https://www.amazon.in/Blockchain-Basics-Non-Technical-Introduction-Steps-ebook/dp/B06XNWF5GP">blockchain basics : Daniel Drescher (suggested in NPTEL)</li>
+  <li><a href="https://www.pdfdrive.com/blockchain-basics-apress-2017-e158110254.html">blockchain basics : Daniel Drescher (suggested in NPTEL)</a><i>available for download</i></li>
   <li><a href="https://gacbe.ac.in/images/E%20books/Cryptography%20and%20Network%20Security%20-%20Prins%20and%20Pract.%205th%20ed%20-%20W.%20Stallings%20(Pearson,%202011)%20BBSbb.pdf">cryptography and network security : william stallings (suggested in NPTEL)</a><i> available for download</i></li> 
   </ul>
   
