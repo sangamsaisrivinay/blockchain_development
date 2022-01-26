@@ -2,10 +2,10 @@
 <h4>notes from my learning</h4>
 <ul>
 <li><a href="https://github.com/sangamsaisrivinay/blockchain_development/blob/main/telusko-blockchain.pdf">telusko-blockchain</a></li>
-  <li><a href="">my notes from nptel course</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1o0hQNm8UTDe_XPbw8eYKQuqfnYZnugWX?usp=sharing">my notes from nptel course</a></li>
 </ul>
 
-<h4>weekly notes for nptel course</h4>
+<h4>weekly notes for nptel course (provided by NPTEL)</h4>
 <ul>
   <li><a href="https://drive.google.com/file/d/15PdRrusRY0ZlASFMU_1NBTcJPH8ygVHV/view?usp=sharing">week 1</a></li>
   </ul>
