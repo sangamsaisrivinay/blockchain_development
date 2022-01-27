@@ -1,4 +1,16 @@
 # blockchain_development
+<table>
+  <tr>
+    <td>
+<img src="https://i0.wp.com/blockchain-comparison.com/wp-content/uploads/2020/04/Blockchain-Landscape_BC.png?fit=1024%2C576&ssl=1" href="#">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://miro.medium.com/max/1400/1*blem5huZshMXSowH9DFWqg.png">
+    </td>
+  </tr>
+  </table>
 <h4>notes from my learning</h4>
 <ul>
 <li><a href="https://github.com/sangamsaisrivinay/blockchain_development/blob/main/telusko-blockchain.pdf">telusko-blockchain</a></li>
@@ -11,8 +23,9 @@
   </ul>
 <h4>my learning resources</h4>
 <ul>
-<li><a href="https://developer.bitcoin.org/devguide/block_chain.html">bitcoin.org-understanding working of BTC</a></li>
+<li><a href="https://developer.bitcoin.org/devguide/block_chain.html">bitcoin.org-understanding blockchain and working of BTC</a></li>
   <li><a href="https://www.javatpoint.com/blockchain-tutorial">javatpoint blockchain</a></li>
+  <li><a href="https://ethereum.org/en/developers/docs/">Ethereum</a></li>
   </ul>
 <h4>video links</h4>
 <ul>
