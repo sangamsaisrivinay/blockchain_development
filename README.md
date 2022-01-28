@@ -61,6 +61,7 @@
   <ul>
   <li><a href="https://www.javatpoint.com/blockchain-merkle-tree">merkle tree</a></li>
   <li><a href="https://www.javatpoint.com/blockchain-double-spending">double spending</a></li>
+  <li><a href="https://medium.com/@zhaohuabing/cryptographic-hash-function-ea769c6fff6d">cryptographic hash function and its properties(good breifing)</li>
   </ul>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
