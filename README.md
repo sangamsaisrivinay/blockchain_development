@@ -20,6 +20,7 @@
 <h4>weekly notes for nptel course (provided by NPTEL)</h4>
 <ul>
   <li><a href="https://drive.google.com/file/d/15PdRrusRY0ZlASFMU_1NBTcJPH8ygVHV/view?usp=sharing">week 1</a></li>
+  <li><a href="https://drive.google.com/file/d/1660Bq-GeEgys2EDyjsvs-cwdnRivO4pK/view?usp=sharing">week 2</a></li>
   </ul>
 <h4>my learning resources</h4>
 <ul>
