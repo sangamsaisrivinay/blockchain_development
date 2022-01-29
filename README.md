@@ -22,6 +22,19 @@
   <li><a href="https://drive.google.com/file/d/15PdRrusRY0ZlASFMU_1NBTcJPH8ygVHV/view?usp=sharing">week 1</a></li>
   <li><a href="https://drive.google.com/file/d/1660Bq-GeEgys2EDyjsvs-cwdnRivO4pK/view?usp=sharing">week 2</a></li>
   </ul>
+  
+  <h4>use these websites for better understanding</h4>
+  <ul>
+  <li><a href="http://www.blockchain-basics.com/">www.blockchain-basics.com/</a>
+    <ul>
+    <li><a href="http://www.blockchain-basics.com/Hashing.html">hashing</a> : genarates a simple (8-bit) message digest</li>
+      <li><a href="http://www.blockchain-basics.com/HashFunctions.html">hash functions</a> : generates message dugest for various popular algorithms like MD5,SHA-256,SHA-512 ...</li>
+      <li><a href="http://www.blockchain-basics.com/HashPuzzle.html">hash puzzle</a></li>
+    </ul>
+  </li>
+  <li><a href="https://www.devglan.com/online-tools/rsa-encryption-decryption">RSA and digital signature tools</a> : useful to demonstrate public key cryptography in RSA algorithm and digital signatures</li>
+  </ul>
+  
 <h4>my learning resources</h4>
 <ul>
 <li><a href="https://developer.bitcoin.org/devguide/block_chain.html">bitcoin.org-understanding blockchain and working of BTC</a></li>
