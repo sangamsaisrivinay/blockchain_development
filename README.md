@@ -49,12 +49,12 @@
 </ul>
 <h4>youtube channels</h4>
 <ul>
-  <li><a href="">Telusko</a></li>
-  <li><a href="">Eat the blocks</a></li>
-  <li><a href="">Dapp university</a></li>
-  <li><a href="">Clever programmer</a></li>
-  <li><a href="">Hashlips NFT</a></li>
-  <li><a href="">Freecodecamp.org</a></li>
+  <li>Telusko</li>
+  <li>Eat the blocks</li>
+  <li>Dapp university</li>
+  <li>Clever programmer</li>
+  <li>Hashlips NFT</li>
+  <li>Freecodecamp.org</li>
   </ul>
   
   <h4>popular websites for NFTs</h4>
