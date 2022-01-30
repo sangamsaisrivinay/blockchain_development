@@ -78,6 +78,7 @@
   <li><a href="https://www.javatpoint.com/blockchain-double-spending">double spending</a></li>
   <li><a href="https://medium.com/@zhaohuabing/cryptographic-hash-function-ea769c6fff6d">hash function and its properties</li>
   <li><a href="https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969">byzantine problem</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Blind_signature#:~:text=In%20cryptography%20a%20blind%20signature,of%20a%20regular%20digital%20signature.">blind signature</a></li>
   </ul>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
