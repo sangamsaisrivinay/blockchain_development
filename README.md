@@ -83,6 +83,7 @@
 <ul>
   <li><a href="https://www.pdfdrive.com/blockchain-basics-apress-2017-e158110254.html">blockchain basics : Daniel Drescher (suggested in NPTEL)</a><i>available for download</i></li>
   <li><a href="https://gacbe.ac.in/images/E%20books/Cryptography%20and%20Network%20Security%20-%20Prins%20and%20Pract.%205th%20ed%20-%20W.%20Stallings%20(Pearson,%202011)%20BBSbb.pdf">cryptography and network security : william stallings (suggested in NPTEL)</a><i> available for download</i></li> 
+  <li><a href="https://www.google.co.in/books/edition/Mastering_Blockchain/ZZ_6DwAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover">deepdive into blockchain: imranbashir</a></li>
   <li><a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/BlockChain/Blockchain.md">more references here..</a></li>
   </ul>
   
