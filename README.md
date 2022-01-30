@@ -47,11 +47,30 @@
   <li><a href="https://www.youtube.com/watch?v=X06TQOOBrhM">youtube/telusko-blockchain series</a></li>
   <li><a href="https://youtube.com/playlist?list=PLsyeobzWxl7pGh8x5C2hsu3My4ei-eX1Y">youtube/telusko-corda playlist</li>
 </ul>
+<h4>youtube channels</h4>
+<ul>
+  <li><a href="">Telusko</a></li>
+  <li><a href="">Eat the blocks</a></li>
+  <li><a href="">Dapp university</a></li>
+  <li><a href="">Clever programmer</a></li>
+  <li><a href="">Hashlips NFT</a></li>
+  <li><a href="">Freecodecamp.org</a></li>
+  </ul>
+  
+  <h4>popular websites for NFTs</h4>
+  <ul>
+  <li><a href="https://www.cryptokitties.co/">cryptokitties</a></li>
+  <li><a href="https://solana.com/developers/nfts">solana</a></li>
+  <li><a href="https://ethereum.org/en/nft/#build-with-nfts">nft resources mentioned on ethereum.org</a></li>
+  <li><a href="https://opensea.io/">opensea</a></li>
+  </ul>
+  
   <h4>some public blockchains</h4>
   <ul>
   <li><a href="https://ethereum.org/en/developers/">ethereum docs</a></li>
   <li><a href="https://solana.com/developers">solana docs</a></li>
   <li><a href="https://wiki.polkadot.network/docs/learn-launch">polkadot</a></li>
+  <li><a href="https://polygon.technology/">polygon - ethereum based blockchain</a></li>
   </ul>
 
 <h4>some private blockchains</h4>
@@ -64,6 +83,7 @@
 <ul>
   <li><a href="https://www.pdfdrive.com/blockchain-basics-apress-2017-e158110254.html">blockchain basics : Daniel Drescher (suggested in NPTEL)</a><i>available for download</i></li>
   <li><a href="https://gacbe.ac.in/images/E%20books/Cryptography%20and%20Network%20Security%20-%20Prins%20and%20Pract.%205th%20ed%20-%20W.%20Stallings%20(Pearson,%202011)%20BBSbb.pdf">cryptography and network security : william stallings (suggested in NPTEL)</a><i> available for download</i></li> 
+  <li><a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/BlockChain/Blockchain.md">more references here..</a></li>
   </ul>
   
   <h4>courses online</h4>
