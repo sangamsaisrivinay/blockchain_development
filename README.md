@@ -63,6 +63,8 @@
   <li><a href="https://solana.com/developers/nfts">solana</a></li>
   <li><a href="https://ethereum.org/en/nft/#build-with-nfts">nft resources mentioned on ethereum.org</a></li>
   <li><a href="https://opensea.io/">opensea</a></li>
+  <li><a href="https://boredapeyachtclub.com/#/home">bored apes</a></li>
+  <li><a href="https://www.lazylionsnft.com/">lazy lions</a></li>
   </ul>
   
   <h4>some public blockchains</h4>
