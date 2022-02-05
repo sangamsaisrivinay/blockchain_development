@@ -21,6 +21,7 @@
 <ul>
   <li><a href="https://drive.google.com/file/d/15PdRrusRY0ZlASFMU_1NBTcJPH8ygVHV/view?usp=sharing">week 1</a></li>
   <li><a href="https://drive.google.com/file/d/1660Bq-GeEgys2EDyjsvs-cwdnRivO4pK/view?usp=sharing">week 2</a></li>
+  <li><a href="https://drive.google.com/file/d/1PcjMxapc7FGc7m-nA-9gQPtoHcVtLHRA/view">week 3</a></li>
   </ul>
   
   <h4>use these websites for better understanding</h4>
