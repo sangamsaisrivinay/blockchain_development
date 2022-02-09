@@ -1,4 +1,4 @@
-# blockchain_development
+# blockchain_development : contribute some resources which you found insightful
 <table>
   <tr>
     <td>
