@@ -41,6 +41,7 @@
 <li><a href="https://developer.bitcoin.org/devguide/block_chain.html">bitcoin.org-understanding blockchain and working of BTC</a></li>
   <li><a href="https://www.javatpoint.com/blockchain-tutorial">javatpoint blockchain</a></li>
   <li><a href="https://ethereum.org/en/developers/docs/">Ethereum</a></li>
+  <li><a href="https://cadena.incl.us/">cadena.org</a> The mission of Cadena is to provide software engineers with a high quality curriculum, a supportive community, and the career skills required to become a blockchain developer</li>
   </ul>
 <h4>video links</h4>
 <ul>
