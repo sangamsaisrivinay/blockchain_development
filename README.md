@@ -62,7 +62,7 @@
   <h4>blockchain based companies</h4>
   <table>
   <tr><td>coinbase</td>
-    <td></td>
+    <td>IBM</td>
   </tr>
   </table>
   
