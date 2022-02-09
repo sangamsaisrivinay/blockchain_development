@@ -113,6 +113,7 @@
   
   <h4>Glossary</h4>
   <ul>
+<li><a href="https://www.investopedia.com/web-20-web-30-5208698"> web1.0 vs 2.0 vs 3.0</a></ki>
   <li><a href="https://hackernoon.com/gaining-clarity-on-key-terminology-bitcoin-versus-blockchain-versus-distributed-ledger-technology-7b43978a64f2">understand the difference b/w BTC, blockchain, and distributed ledgers</a></li>
   <li><a href="https://www.javatpoint.com/blockchain-merkle-tree">merkle tree</a></li>
   <li><a href="https://www.javatpoint.com/blockchain-double-spending">double spending</a></li>
