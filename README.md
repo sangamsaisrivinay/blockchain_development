@@ -67,7 +67,10 @@
   </tr>
   </table>
   
-  
+  <h4>learn polygon</h4>
+  <ul>
+  <li><a href="https://polygon.technology/developers/">polygon for devs</a></li>
+  </ul>
   
   <h4>popular websites for NFTs</h4>
   <ul>
