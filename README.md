@@ -107,7 +107,7 @@
   <li><a href="https://academy.binance.com/en">basic cryptography terms and briefing about blockchain and its related applications - binance academy</a></li>
   </ul>
   
-  <h4>terminologies</h4>
+  <h4>Glossary</h4>
   <ul>
   <li><a href="https://hackernoon.com/gaining-clarity-on-key-terminology-bitcoin-versus-blockchain-versus-distributed-ledger-technology-7b43978a64f2">understand the difference b/w BTC, blockchain, and distributed ledgers</a></li>
   <li><a href="https://www.javatpoint.com/blockchain-merkle-tree">merkle tree</a></li>
@@ -115,6 +115,8 @@
   <li><a href="https://medium.com/@zhaohuabing/cryptographic-hash-function-ea769c6fff6d">hash function and its properties</li>
   <li><a href="https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969">byzantine problem</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Blind_signature#:~:text=In%20cryptography%20a%20blind%20signature,of%20a%20regular%20digital%20signature.">blind signature</a></li>
+  <li><a href="https://www.investopedia.com/decentralized-finance-defi-5113835">Decentralized Finance</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Decentralized_exchange">Decentralized Exchange</a></li>
   </ul>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
