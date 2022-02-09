@@ -59,6 +59,15 @@
   <li>Freecodecamp.org</li>
   </ul>
   
+  <h4>blockchain based companies</h4>
+  <table>
+  <tr><td>coinbase</td>
+    <td></td>
+  </tr>
+  </table>
+  
+  
+  
   <h4>popular websites for NFTs</h4>
   <ul>
   <li><a href="https://www.cryptokitties.co/">cryptokitties</a></li>
