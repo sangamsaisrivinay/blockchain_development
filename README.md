@@ -1,4 +1,4 @@
-# blockchain_development : contribute some resources which you found insightful
+# blockchain_development : contribute some resources which you found insightful about Web3, Blockchain,NFT,DeFi,DeX...
 <table>
   <tr>
     <td>
