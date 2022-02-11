@@ -144,7 +144,7 @@
 <table>
     <tr>
         <td><a href="https://www.linkedin.com/posts/stevenouri_nfts-ugcPost-6897714680077385728-jlGq">NFT</a></td>
-        <td></td>
+        <td><a href="https://blog.coinbase.com/a-simple-guide-to-the-web3-stack-785240e557f0">web3stack</a></td>
         <td></td>
     </tr>
 </table>
