@@ -137,6 +137,15 @@
     <tr><td><a href="https://paxful.com/blog/what-is-rug-pull-crypto/">rug pull</a></td>
         <td>-</td></tr>
 </table>
+<h4>articles/posts</h4>
+<table>
+    <tr>
+        <td><a href="https://www.linkedin.com/posts/stevenouri_nfts-ugcPost-6897714680077385728-jlGq">NFT</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
 
