@@ -94,3 +94,44 @@
           <td>Polygon</td>
       </tr>
   </table>
+<h4>popular websites for NFTs</h4>
+<table>
+      <tr><td><a href="https://www.cryptokitties.co/">cryptokitties</a></td>
+          <td><a href="https://solana.com/developers/nfts">solana</a></td>
+          <td><a href="https://ethereum.org/en/nft/#build-with-nfts"> ethereum.org</a></td></tr>
+      <tr><td><a href="https://opensea.io/">opensea</a></td>
+          <td><a href="https://boredapeyachtclub.com/#/home">bored apes</a></td>
+          <td><a href="https://www.lazylionsnft.com/">lazy lions</a></td></tr>
+</table>
+<h4>Books and references</h4>
+<table>
+      <tr><td><a href="https://www.pdfdrive.com/blockchain-basics-apress-2017-e158110254.html">blockchain basics : Daniel Drescher</a></td></tr>
+      <tr><td><a href="https://gacbe.ac.in/images/E%20books/Cryptography%20and%20Network%20Security%20-%20Prins%20and%20Pract.%205th%20ed%20-%20W.%20Stallings%20(Pearson,%202011)%20BBSbb.pdf">cryptography and network security : william stallings</a></td></tr>
+      <tr><td><a href="https://www.google.co.in/books/edition/Mastering_Blockchain/ZZ_6DwAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover">deepdive into blockchain: imranbashir</a></td></tr>
+      <tr><td><a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/BlockChain/Blockchain.md">more references here..</a></td></tr>
+</table>
+<h4>glossary</h4>
+<table>
+    <tr><td><a href="https://www.investopedia.com/web-20-web-30-5208698"> web1.0 vs 2.0 vs 3.0</a></td>
+        <td>gives a brief explanation about evolution of web and the developments made</td></tr>
+    <tr><td><a href="https://hackernoon.com/gaining-clarity-on-key-terminology-bitcoin-versus-blockchain-versus-distributed-ledger-technology-7b43978a64f2">terminologies</a></td>
+        <td>understand the difference b/w BTC, blockchain, and distributed ledgers</td></tr>
+    <tr><td><a href="https://www.javatpoint.com/blockchain-merkle-tree">merkle tree</a></td>
+        <td>-</td></tr>
+    <tr><td><a href="https://www.javatpoint.com/blockchain-double-spending">double spending</a></td>
+        <td>-</td></tr>
+    <tr><td><a href="https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969">byzantine problem</a></td>
+        <td>-</td></tr>
+    <tr><td><a href="https://en.wikipedia.org/wiki/Blind_signature#:~:text=In%20cryptography%20a%20blind%20signature,of%20a%20regular%20digital%20signature.">blind signature</a></td>
+        <td>-</td></tr>
+    <tr><td><a href="https://www.investopedia.com/decentralized-finance-defi-5113835">Decentralized Finance</a></td>
+        <td>-</td></tr>
+    <tr><td><a href="https://en.wikipedia.org/wiki/Decentralized_exchange">Decentralized Exchange</a></td>
+        <td>-</td></tr>
+    <tr><td><a href="https://medium.com/@zhaohuabing/cryptographic-hash-function-ea769c6fff6d">hash function</td>
+        <td>hash functions and their properties</td></tr>
+</table>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
+
+<h2>contribute some useful resources, thankyou!❤️</h2>
