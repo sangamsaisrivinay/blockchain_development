@@ -88,7 +88,7 @@
   <li><a href="https://ethereum.org/en/developers/">ethereum docs</a></li>
   <li><a href="https://solana.com/developers">solana docs</a></li>
   <li><a href="https://wiki.polkadot.network/docs/learn-launch">polkadot</a></li>
-  <li><a href="https://polygon.technology/">polygon - ethereum based blockchain</a></li>
+  <li><a href="https://polygon.technology/">polygon </a> it is like a cloud service(eg. aws in web2) to build and scale Dapps on ethereum network</li>
   </ul>
 
 <h4>some private blockchains</h4>
