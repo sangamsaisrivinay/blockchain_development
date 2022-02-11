@@ -11,7 +11,7 @@
     </td>
   </tr>
   </table>
-<h4>notes from my learning</h4>
+<h4>notes</h4>
 <ul>
 <li><a href="https://github.com/sangamsaisrivinay/blockchain_development/blob/main/telusko-blockchain.pdf">telusko-blockchain</a></li>
   <li><a href="https://drive.google.com/drive/folders/1o0hQNm8UTDe_XPbw8eYKQuqfnYZnugWX?usp=sharing">my notes from nptel course</a></li>
@@ -36,13 +36,14 @@
   <li><a href="https://www.devglan.com/online-tools/rsa-encryption-decryption">RSA and digital signature tools</a> : useful to demonstrate public key cryptography in RSA algorithm and digital signatures</li>
   </ul>
   
-<h4>my learning resources</h4>
+<h4>learning resources</h4>
 <ul>
 <li><a href="https://developer.bitcoin.org/devguide/block_chain.html">bitcoin.org-understanding blockchain and working of BTC</a></li>
   <li><a href="https://www.javatpoint.com/blockchain-tutorial">javatpoint blockchain</a></li>
   <li><a href="https://ethereum.org/en/developers/docs/">Ethereum</a></li>
-  <li><a href="https://cadena.incl.us/">cadena.org</a> The mission of Cadena is to provide software engineers with a high quality curriculum, a supportive community, and the career skills required to become a blockchain developer</li>
-  <li><a href="https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy">The polygon caademy</a> this course is about learning polygon infrastructure to build and scale Dapps on ethereum network</li>
+  <li><a href="https://cadena.incl.us/">cadena.org</a> The mission of Cadena is to provide software engineers with a high quality curriculum, a supportive community, and the career skills required to become a blockchain developer<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></li>
+  <li><a href="https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy">The polygon caademy</a> this course is about learning polygon infrastructure to build and scale Dapps on ethereum network<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></li>
+  <li><a href="https://cryptozombies.io/">CryptoZombies</a> It helps to pearn about NFTs by building some games<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></li>
   </ul>
 <h4>video links</h4>
 <ul>
@@ -68,10 +69,10 @@
   </tr>
   </table>
   
-  <h4>learn polygon</h4>
-  <ul>
-  <li><a href="https://polygon.technology/developers/">polygon for devs</a></li>
-  </ul>
+
+
+
+
   
   <h4>popular websites for NFTs</h4>
   <ul>
