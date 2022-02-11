@@ -42,6 +42,10 @@
             <td><a href="https://hyperledger-fabric.readthedocs.io/en/latest/whatis.html">hyperledger fabric</a></td>
             <td><a href="https://docs.r3.com/en/tutorials.html">corda</a></td>
             <td></td></tr>
+        <tr><td><b>LEARN POLYGON</b></td>
+            <td><a href="https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy">polygon academy</a></td>
+            <td></td>
+            <td></td></tr>
   </table>
   <h4>tutorials</h4>
   <table>
