@@ -30,7 +30,7 @@
         <tr><td><a href="https://nptel.ac.in/courses/106/105/106105235/">NPTEL: Block chain and its applications</a></td>
             <td>This course gives introduction and underlying algorithms of blockchain also it has hands on implementationof various projects, this course will give an introduction to a popular public blockchain platform ETHEREUM and a popular private blockchain HYPERLEDGER FABRIC, it contains weekly assignmanets and a decent community forum to discuss about the course.</td></tr>
         <tr><td><a href="https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/">udemy : solidity and ethereum complete guide</a></td>
-            <td>download it <a href="https://freecourseudemy.com/ethereum-and-solidity-the-complete-developers-guide-7/">here</a></td></tr>
+            <td>-</td></tr>
   </table>
   <h4>documentation</h4>
   <table>
