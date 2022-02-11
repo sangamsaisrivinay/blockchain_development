@@ -134,6 +134,8 @@
         <td>-</td></tr>
     <tr><td><a href="https://medium.com/@zhaohuabing/cryptographic-hash-function-ea769c6fff6d">hash function</td>
         <td>hash functions and their properties</td></tr>
+    <tr><td><a href="https://paxful.com/blog/what-is-rug-pull-crypto/">rug pull</a></td>
+        <td>-</td></tr>
 </table>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
