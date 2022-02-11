@@ -42,6 +42,7 @@
   <li><a href="https://www.javatpoint.com/blockchain-tutorial">javatpoint blockchain</a></li>
   <li><a href="https://ethereum.org/en/developers/docs/">Ethereum</a></li>
   <li><a href="https://cadena.incl.us/">cadena.org</a> The mission of Cadena is to provide software engineers with a high quality curriculum, a supportive community, and the career skills required to become a blockchain developer</li>
+  <li><a href="https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy">The polygon caademy</a> this course is about learning polygon infrastructure to build and scale Dapps on ethereum network</li>
   </ul>
 <h4>video links</h4>
 <ul>
