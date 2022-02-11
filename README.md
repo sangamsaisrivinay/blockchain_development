@@ -137,6 +137,8 @@
         <td>hash functions and their properties</td></tr>
     <tr><td><a href="https://paxful.com/blog/what-is-rug-pull-crypto/">rug pull</a></td>
         <td>-</td></tr>
+    <tr><td><a href="https://ethereum.org/en/developers/docs/oracles/">oracles</a></td>
+        <td>-</td></tr>
 </table>
 <h4>articles/posts</h4>
 <table>
