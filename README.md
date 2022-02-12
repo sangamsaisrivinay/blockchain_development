@@ -24,7 +24,7 @@
         <th>A brief</th></tr>
         <tr><td><a href="https://cadena.incl.us/">cadena.org</a></td>
             <td> The mission of Cadena is to provide software engineers with a high quality curriculum, a supportive community, and the career skills required to become a blockchain developer<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
-        <tr><td><a href="https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy">The polygon caademy</a> </td>
+        <tr><td><a href="https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy">The polygon academy</a> </td>
             <td>this course is about learning polygon infrastructure to build and scale Dapps on ethereum network<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
         <tr><td><a href="https://cryptozombies.io/">CryptoZombies</a></td>
             <td>It helps to pearn about NFTs by building some games<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
