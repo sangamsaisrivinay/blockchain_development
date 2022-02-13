@@ -101,7 +101,7 @@
           <td>Polygon</td>
       </tr>
   </table>
-<h4>popular websites for NFTs</h4>
+<h4>popular websites for NFTs and web3 based games</h4>
 <table>
       <tr><td><a href="https://www.cryptokitties.co/">cryptokitties</a></td>
           <td><a href="https://solana.com/developers/nfts">solana</a></td>
