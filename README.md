@@ -151,6 +151,9 @@
         <td></td></tr>
     <tr><td><a href="https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a">consensus finality</a></td>
         <td></td></tr>
+    <tr><td><a href="https://www.investopedia.com/terms/p/permissioned-blockchains.asp">permissioned Blockchain models</a></td>
+        <td></td></tr>
+  
 </table>
 <h4>articles/posts</h4>
 <table>
