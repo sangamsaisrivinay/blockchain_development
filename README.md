@@ -161,6 +161,8 @@
         <td>Proof of Work, Proof of Stake, Delegated Proof of Stake, Consensus as a Service</td></tr>
     <tr><td><a href="https://www.investopedia.com/terms/1/51-attack.asp">51% attack</a></td>
         <td></td></tr>
+    <tr><td><a href="https://www.coindesk.com/learn/centralized-exchange-cex-vs-decentralized-exchange-dex-whats-the-difference/">CeX vs DeX</a></td>
+        <td></td></tr>
 </table>
 <h4>articles/posts</h4>
 <table>
