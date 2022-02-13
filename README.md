@@ -141,6 +141,8 @@
         <td>-</td></tr>
     <tr><td><a href="https://ethereum.org/en/developers/docs/oracles/">oracles</a></td>
         <td>-</td></tr>
+    <tr><td><a href="https://www.quora.com/What-is-minting-in-blockchain">Minting</a></td>
+        <td></td></tr>
 </table>
 <h4>articles/posts</h4>
 <table>
