@@ -144,7 +144,7 @@
     <tr><td><a href="https://www.quora.com/What-is-minting-in-blockchain">Minting</a></td>
         <td></td></tr>
     <tr><td><a href="https://www.investopedia.com/terms/g/genesis-block.asp">Genesis block</a></td>
-        <td></td>
+        <td>A Genesis Block is the name given to the first block a cryptocurrency, such as Bitcoin, ever mined.</td>
 </table>
 <h4>articles/posts</h4>
 <table>
