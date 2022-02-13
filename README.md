@@ -14,10 +14,10 @@
   <h4>NPTEL notes </h4>
   <table>
         <tr><td><a href="https://drive.google.com/file/d/15PdRrusRY0ZlASFMU_1NBTcJPH8ygVHV/view?usp=sharing">week 1</a></td>
-        <td><a href="https://drive.google.com/file/d/1660Bq-GeEgys2EDyjsvs-cwdnRivO4pK/view?usp=sharing">week 2</a></td>
-        <td><a href="https://drive.google.com/file/d/1PcjMxapc7FGc7m-nA-9gQPtoHcVtLHRA/view">week 3</a></td>
-  <td><a href="https://drive.google.com/file/d/17DHKPk1O7t8zUHb0Nrpiq-zCsksl6Jh7/view">week 4</a></td>
-  </tr>
+            <td><a href="https://drive.google.com/file/d/1660Bq-GeEgys2EDyjsvs-cwdnRivO4pK/view?usp=sharing">week 2</a></td>
+            <td><a href="https://drive.google.com/file/d/1PcjMxapc7FGc7m-nA-9gQPtoHcVtLHRA/view">week 3</a></td>
+            <td><a href="https://drive.google.com/file/d/17DHKPk1O7t8zUHb0Nrpiq-zCsksl6Jh7/view">week 4</a></td>
+        </tr>
         <tr><td><a href="https://drive.google.com/drive/folders/1o0hQNm8UTDe_XPbw8eYKQuqfnYZnugWX?usp=sharing">handbook</a></td></tr>
   </table>  
   <h4>Courses online</h4>
@@ -154,4 +154,14 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
 
-<h2>contribute some useful resources, thankyou!❤️</h2>
+<h2>contribute</h2>
+Contributions welcome!
+<ol>
+  <li>Fork it (https://www.github.com/sangamsaisrivinay/blockchain_development)</li>
+  <li>Clone it(<code>git clone https://www.github.com/sangamsaisrivinay/blockchain_development</code>)</li>
+  <li>Create your feature branch(<code>git checkout -b YOUR_BRANCH_NAME</code>)</li>
+  <li>Commit your changes(<code>git commit -m 'DESCRIPTION OF COMMIT'</code>)</li>
+  <li>Push to the branch(<code>git push origin YOUR_BRANCH_NAME</code>)</li>
+  <li>Create a new Pull Request</li>
+</ol>
+<h2> thankyou!❤️</h2>
