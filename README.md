@@ -144,7 +144,11 @@
     <tr><td><a href="https://www.quora.com/What-is-minting-in-blockchain">Minting</a></td>
         <td></td></tr>
     <tr><td><a href="https://www.investopedia.com/terms/g/genesis-block.asp">Genesis block</a></td>
-        <td>A Genesis Block is the name given to the first block a cryptocurrency, such as Bitcoin, ever mined.</td>
+        <td>A Genesis Block is the name given to the first block a cryptocurrency, such as Bitcoin, ever    mined.  </td></tr>
+    <tr><td><a href="https://docs.cosmos.network/master/intro/sdk-app-architecture.html">state machine</a></td>
+        <td></td></tr>
+    <tr><td><a href="https://www.ibm.com/topics/smart-contracts">smart contract</a></td>
+        <td></td></tr>
 </table>
 <h4>articles/posts</h4>
 <table>
