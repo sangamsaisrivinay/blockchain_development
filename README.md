@@ -150,10 +150,6 @@
         <td></td>
     </tr>
 </table>
-
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
-
 <h2>contribute</h2>
 Contributions welcome!
 <ol>
@@ -165,3 +161,5 @@ Contributions welcome!
   <li>Create a new Pull Request</li>
 </ol>
 <h2> thankyou!❤️</h2>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
