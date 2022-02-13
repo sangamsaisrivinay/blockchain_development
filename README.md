@@ -160,6 +160,7 @@ Contributions welcome!
   <li>Push to the branch(<code>git push origin YOUR_BRANCH_NAME</code>)</li>
   <li>Create a new Pull Request</li>
 </ol>
-<h2> thankyou!❤️</h2>
+<h2>If you found this resource helpful, give it a ⭐<br> thankyou!❤️</h2>
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
