@@ -153,9 +153,10 @@
         <td></td></tr>
     <tr><td><a href="https://www.investopedia.com/terms/p/permissioned-blockchains.asp">permissioned Blockchain models</a></td>
         <td></td></tr>
-       <tr><td><a href="https://www.lexology.com/library/detail.aspx?g=e30e7d54-3c7f-4ca0-8a22-478227a9b5ec">types of consensus mechanisms<a></td>
+    <tr><td><a href="https://www.lexology.com/library/detail.aspx?g=e30e7d54-3c7f-4ca0-8a22-478227a9b5ec">types of consensus mechanisms<a></td>
         <td>Proof of Work, Proof of Stake, Delegated Proof of Stake, Consensus as a Service</td></tr>
-  
+    <tr><td><a href="https://www.investopedia.com/terms/1/51-attack.asp">51% attack</a></td>
+        <td></td></tr>
 </table>
 <h4>articles/posts</h4>
 <table>
