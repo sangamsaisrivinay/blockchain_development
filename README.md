@@ -163,13 +163,16 @@
         <td></td></tr>
     <tr><td><a href="https://www.coindesk.com/learn/centralized-exchange-cex-vs-decentralized-exchange-dex-whats-the-difference/">CeX vs DeX</a></td>
         <td></td></tr>
+    <tr><td><a href="https://www.investopedia.com/terms/m/mining-pool.asp">pooling</a></td>
+        <td></td></tr>   
+      
 </table>
 <h4>articles/posts</h4>
 <table>
     <tr>
         <td><a href="https://www.linkedin.com/posts/stevenouri_nfts-ugcPost-6897714680077385728-jlGq">NFT</a></td>
         <td><a href="https://blog.coinbase.com/a-simple-guide-to-the-web3-stack-785240e557f0">web3stack</a></td>
-        <td></td>
+        <td>the process of pooling resources by miners who share their processing power over a network to split the reward equally acc to the amount of work they contributed to find the block</td>
     </tr>
 </table>
 <h2>contribute</h2>
