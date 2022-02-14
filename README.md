@@ -166,6 +166,8 @@
     <tr><td><a href="https://www.investopedia.com/terms/m/mining-pool.asp">pooling</a></td>
         <td>the process of pooling resources by miners who share their processing power over a network to split the reward equally acc to the amount of work they contributed to find the block</td>
 </td></tr>   
+    <tr><td><a href="https://www.mycryptopedia.com/scriptpubkey-scriptsig/">scriptsig and script pub</a></td>
+        <td></td></tr>
       
 </table>
 <h4>articles/posts</h4>
