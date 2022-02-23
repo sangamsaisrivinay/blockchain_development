@@ -46,7 +46,17 @@
         <tr><td><a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">udacity nanodegree</a></td>
             <td>-</td></tr>
         <tr><td>-</td>
-            <td>-</td></tr>
+            <td>Some of the resources to kickstart blockchain<br/>
+                10 website helps you to learn Web3 Development  ↓<br/>
+                ♦️ cryptozombies. io<br/>
+                ♦️ buildspace .so<br/>
+                ♦️ questbookapp .xyz<br/>
+                ♦️ nftschool. dev<br/>
+                ♦️ remix.ethereum. org<br/>
+                ♦️ ethernaut.openzeppelin. com<br/>
+                ♦️ startonsolana. com<br/>
+                ♦️ solanacookbook. com<br/>
+                ♦️ useweb3. xyz</td></tr>
         <tr><td><a href="https://github.com/sangamsaisrivinay/torrent-files/blob/main/udemy%7C%7Cudacity.md">--find more here</a></td>
             <td>-</td></tr>
   </table>
@@ -102,6 +112,9 @@
         <tr><td>Clever programmer</td>
             <td>Hashlips NFT</td>
             <td>Freecodecamp.org</td></tr>
+        <tr><td>Siraj Raval</td>
+            <td></td>
+            <td></td></tr>
 </table>
 <h4>videos and playlists</h4>
 <table>
