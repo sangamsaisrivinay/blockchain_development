@@ -44,7 +44,7 @@
         <tr><td><a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">udacity nanodegree</a></td>
             <td>-</td></tr>
         <tr></tr>
-        <tr><td><a href="https://www.github.com/sangamsaisrivinay/torrent-files/udemy||udacity.md">--find more here</a></td>
+        <tr><td><a href="https://github.com/sangamsaisrivinay/torrent-files/blob/main/udemy%7C%7Cudacity.md">--find more here</a></td>
             <td>-</td></tr>
   </table>
   <h4>documentation</h4>
