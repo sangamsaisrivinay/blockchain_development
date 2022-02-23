@@ -18,7 +18,9 @@
             <td><a href="https://drive.google.com/file/d/1PcjMxapc7FGc7m-nA-9gQPtoHcVtLHRA/view">week 3</a></td>
             <td><a href="https://drive.google.com/file/d/17DHKPk1O7t8zUHb0Nrpiq-zCsksl6Jh7/view">week 4</a></td>
         </tr>
-        <tr><td><a href="https://drive.google.com/drive/folders/1o0hQNm8UTDe_XPbw8eYKQuqfnYZnugWX?usp=sharing">handbook</a></td></tr>
+        <tr>
+          <td><a href="https://drive.google.com/file/d/1zc974-TjN1BGmXvgvZ12RF5sOFvgSHdh/view">week 5</a></td>
+          <td><a href="https://drive.google.com/drive/folders/1o0hQNm8UTDe_XPbw8eYKQuqfnYZnugWX?usp=sharing">handbook</a></td></tr>
   </table>  
   <h4>Courses online</h4>
   <table>
