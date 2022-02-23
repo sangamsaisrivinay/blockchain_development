@@ -39,9 +39,12 @@
             <td>-</td></tr>
         <tr><td><a href="https://www.udemy.com/course/build-your-blockchain-az/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-ZUW1Ui172WxPEgYnZmXrxQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads">udemy : blockchain A-Z</a></td>
             <td>-</td></tr>
-        <tr><td><a href="https://medium.com/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0">more courses here</a></td>
+        <tr><td><a href="https://medium.com/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0">find more in this blog</a></td>
             <td>-</td></tr>
         <tr><td><a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">udacity nanodegree</a></td>
+            <td>-</td></tr>
+        <tr></tr>
+        <tr><td><a href="https://www.github.com/sangamsaisrivinay/torrent-files/udemy||udacity.md">--find more here</a></td>
             <td>-</td></tr>
   </table>
   <h4>documentation</h4>
