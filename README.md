@@ -37,13 +37,14 @@
                 about the course.</td></tr>
         <tr><td><a href="https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/">udemy : solidity and ethereum complete guide</a></td>
             <td>-</td></tr>
-        <tr><td><a href="https://www.udemy.com/course/build-your-blockchain-az/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-ZUW1Ui172WxPEgYnZmXrxQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads">udemy : blockchain A-Z</a></td>
+        <tr><td><a href="https://www.udemy.com/course/build-your-blockchain-az/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-                ZUW1Ui172WxPEgYnZmXrxQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads">udemy : blockchain A-Z</a></td>
             <td>-</td></tr>
         <tr><td><a href="https://medium.com/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0">find more in this blog</a></td>
             <td>-</td></tr>
         <tr><td><a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">udacity nanodegree</a></td>
             <td>-</td></tr>
-        <tr></tr>
+        <tr><td>-</td>
+            <td>-</td></tr>
         <tr><td><a href="https://github.com/sangamsaisrivinay/torrent-files/blob/main/udemy%7C%7Cudacity.md">--find more here</a></td>
             <td>-</td></tr>
   </table>
@@ -200,7 +201,7 @@ Contributions welcome!
   <li>Push to the branch(<code>git push origin YOUR_BRANCH_NAME</code>)</li>
   <li>Create a new Pull Request</li>
 </ol>
-<h2>If you found this resource helpful, give it a ⭐<br> thankyou!❤️</h2>
+<h2>If you find this resource helpful, give it a ⭐<br> thankyou!❤️</h2>
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
