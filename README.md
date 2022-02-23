@@ -76,7 +76,7 @@
             <td></td></tr>
         <tr><td><b>GITHUB</b></td>
             <td><a href="https://github.com/gouravmehar?tab=stars">explore these repositories</a></td>
-            <td></td>
+            <td><a href="https://github.com/bkrem/awesome-solidity">learn solidity(beginner level)</a></td>
             <td></td></tr>
   </table>
   <h4>tutorials</h4>
