@@ -25,18 +25,23 @@
         <tr><th>Course name</th>
         <th>A brief</th></tr>
         <tr><td><a href="https://cadena.incl.us/">cadena.org</a></td>
-            <td> The mission of Cadena is to provide software engineers with a high quality curriculum, a supportive community, and the career skills required to become a blockchain developer<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
+            <td> The mission of Cadena is to provide software engineers with a high quality curriculum, a supportive community, and the career skills required to become a blockchain 
+                 developer<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
         <tr><td><a href="https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy">The polygon academy</a> </td>
             <td>this course is about learning polygon infrastructure to build and scale Dapps on ethereum network<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
         <tr><td><a href="https://cryptozombies.io/">CryptoZombies</a></td>
             <td>It helps to pearn about NFTs by building some games<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
         <tr><td><a href="https://nptel.ac.in/courses/106/105/106105235/">NPTEL: Block chain and its applications</a></td>
-            <td>This course gives introduction and underlying algorithms of blockchain also it has hands on implementationof various projects, this course will give an introduction to a popular public blockchain platform ETHEREUM and a popular private blockchain HYPERLEDGER FABRIC, it contains weekly assignmanets and a decent community forum to discuss about the course.</td></tr>
+            <td>This course gives introduction and underlying algorithms of blockchain also it has hands on implementationof various projects, this course will give an introduction to a 
+                popular public blockchain platform ETHEREUM and a popular private blockchain HYPERLEDGER FABRIC, it contains weekly assignmanets and a decent community forum to discuss 
+                about the course.</td></tr>
         <tr><td><a href="https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/">udemy : solidity and ethereum complete guide</a></td>
             <td>-</td></tr>
         <tr><td><a href="https://www.udemy.com/course/build-your-blockchain-az/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-ZUW1Ui172WxPEgYnZmXrxQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads">udemy : blockchain A-Z</a></td>
             <td>-</td></tr>
-  <tr><td><a href="https://medium.com/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0">more courses here</a></td>
+        <tr><td><a href="https://medium.com/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0">more courses here</a></td>
+            <td>-</td></tr>
+        <tr><td><a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">udacity nanodegree</a></td>
             <td>-</td></tr>
   </table>
   <h4>documentation</h4>
@@ -51,6 +56,10 @@
             <td></td></tr>
         <tr><td><b>LEARN POLYGON</b></td>
             <td><a href="https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy">polygon academy</a></td>
+            <td></td>
+            <td></td></tr>
+        <tr><td><b>GITHUB</b></td>
+            <td><a href="https://github.com/gouravmehar?tab=stars">explore these repositories</a></td>
             <td></td>
             <td></td></tr>
   </table>
