@@ -197,6 +197,8 @@
 </td></tr>   
     <tr><td><a href="https://www.mycryptopedia.com/scriptpubkey-scriptsig/">scriptsig and script pub</a></td>
         <td></td></tr>
+      <tr><td><a href="https://academy.bit2me.com/en/what-is-a-seed-node/">seed node</a></td>
+        <td>A seed node is a special node that allows the incorporation of new nodes to the network and maintains the strength of the network at all times, by allowing them to synchronize and obtain a copy of the data from the blockchain, replicating it and adding resistance and security to it.</td></tr>
       
 </table>
 <h4>articles/posts</h4>
