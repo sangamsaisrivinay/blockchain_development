@@ -148,6 +148,8 @@
       <tr><td><a href="https://www.pdfdrive.com/blockchain-basics-apress-2017-e158110254.html">blockchain basics : Daniel Drescher</a></td></tr>
       <tr><td><a href="https://gacbe.ac.in/images/E%20books/Cryptography%20and%20Network%20Security%20-%20Prins%20and%20Pract.%205th%20ed%20-%20W.%20Stallings%20(Pearson,%202011)%20BBSbb.pdf">cryptography and network security : william stallings</a></td></tr>
       <tr><td><a href="https://www.google.co.in/books/edition/Mastering_Blockchain/ZZ_6DwAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover">deepdive into blockchain: imranbashir</a></td></tr>
+         <tr><td><a href="https://hpi.de/fileadmin/user_upload/hpi/dokumente/publikationen/technische_berichte/tbhpi124.pdf">Blockchain: hype or innovation by tatiance gayvoronskaya and cristoph meinel Springer</a></td></tr>
+</table>
       <tr><td><a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/BlockChain/Blockchain.md">more references here..</a></td></tr>
 </table>
 <h4>glossary</h4>
