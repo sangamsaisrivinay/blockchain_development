@@ -195,12 +195,14 @@
     <tr><td><a href="https://www.coindesk.com/learn/centralized-exchange-cex-vs-decentralized-exchange-dex-whats-the-difference/">CeX vs DeX</a></td>
         <td></td></tr>
     <tr><td><a href="https://www.investopedia.com/terms/m/mining-pool.asp">pooling</a></td>
-        <td>the process of pooling resources by miners who share their processing power over a network to split the reward equally acc to the amount of work they contributed to find the block</td>
-</td></tr>   
+        <td>the process of pooling resources by miners who share their processing power over a network to split the reward equally acc to the amount of work they contributed to  find the block</td>
+        <td>-</td></tr>   
     <tr><td><a href="https://www.mycryptopedia.com/scriptpubkey-scriptsig/">scriptsig and script pub</a></td>
-        <td></td></tr>
+        <td>-</td></tr>
       <tr><td><a href="https://academy.bit2me.com/en/what-is-a-seed-node/">seed node</a></td>
         <td>A seed node is a special node that allows the incorporation of new nodes to the network and maintains the strength of the network at all times, by allowing them to synchronize and obtain a copy of the data from the blockchain, replicating it and adding resistance and security to it.</td></tr>
+     <tr><td><a href="https://www.cmcmarkets.com/en/learn-cryptocurrencies/what-is-a-blockchain-fork">forking</a></td>
+        <td><a href="https://en.wikipedia.org/wiki/Fork_(blockchain)">wiki</a></td></tr>
       
 </table>
 <h4>articles/posts</h4>
