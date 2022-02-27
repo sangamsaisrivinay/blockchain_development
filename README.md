@@ -13,23 +13,23 @@
   </table>
   <h4>NPTEL notes </h4>
   <table>
-        <tr><td><a href="t.ly/NtJFa">week 1</a></td>
-            <td><a href="t.ly/FcYx">week 2</a></td>
-            <td><a href="t.ly/7Frc">week 3</a></td>
-            <td><a href="t.ly/GnTc">week 4</a></td>
+        <tr><td><a href="https://drive.google.com/file/d/15PdRrusRY0ZlASFMU_1NBTcJPH8ygVHV/view?usp=sharing">week 1</a></td>
+            <td><a href="https://drive.google.com/file/d/1660Bq-GeEgys2EDyjsvs-cwdnRivO4pK/view?usp=sharing">week 2</a></td>
+            <td><a href="https://drive.google.com/file/d/1PcjMxapc7FGc7m-nA-9gQPtoHcVtLHRA/view">week 3</a></td>
+            <td><a href="https://drive.google.com/file/d/17DHKPk1O7t8zUHb0Nrpiq-zCsksl6Jh7/view">week 4</a></td>
         </tr>
         <tr>
-          <td><a href="t.ly/ZaDW">week 5</a></td>
-          <td><a href="t.ly/8lpe">handbook</a></td></tr>
+          <td><a href="https://drive.google.com/file/d/1zc974-TjN1BGmXvgvZ12RF5sOFvgSHdh/view">week 5</a></td>
+          <td><a href="https://drive.google.com/drive/folders/1o0hQNm8UTDe_XPbw8eYKQuqfnYZnugWX?usp=sharing">handbook</a></td></tr>
   </table>  
   <h4>Courses online</h4>
   <table>
         <tr><th>Course name</th>
         <th>A brief</th></tr>
-        <tr><td><a href="t.ly/omBT">cadena.org</a></td>
+        <tr><td><a href="https://cadena.incl.us/">cadena.org</a></td>
             <td> The mission of Cadena is to provide software engineers with a high quality curriculum, a supportive community, and the career skills required to become a blockchain 
                  developer<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
-        <tr><td><a href="t.ly/OXkY">The polygon academy</a> </td>
+        <tr><td><a href="https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy">The polygon academy</a> </td>
             <td>this course is about learning polygon infrastructure to build and scale Dapps on ethereum network<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
         <tr><td><a href="https://cryptozombies.io/">CryptoZombies</a></td>
             <td>It helps to pearn about NFTs by building some games<br>⚠️<b>THIS IS AN INTERMEDIATE LEVEL COURSE</b></td></tr>
