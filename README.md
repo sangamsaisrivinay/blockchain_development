@@ -20,7 +20,13 @@
         </tr>
         <tr>
           <td><a href="https://drive.google.com/file/d/1zc974-TjN1BGmXvgvZ12RF5sOFvgSHdh/view">week 5</a></td>
-          <td><a href="https://drive.google.com/drive/folders/1o0hQNm8UTDe_XPbw8eYKQuqfnYZnugWX?usp=sharing">handbook</a></td></tr>
+          <td><a href="https://drive.google.com/file/d/1fI7HrrXAcX9pxP-e-AB1K5TomrxX6KCx/view">week 6</a></td>
+        </tr> 
+  </table>
+  <h4>nptel hand-written notes</h4>
+  <table>
+        <tr>
+          <td><a href="https://drive.google.com/drive/folders/1o0hQNm8UTDe_XPbw8eYKQuqfnYZnugWX?usp=sharing">weekly hand written notes</a></td></tr>
   </table>  
   <h4>Courses online</h4>
   <table>
