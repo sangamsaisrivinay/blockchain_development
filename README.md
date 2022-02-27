@@ -190,20 +190,34 @@
         <td></td></tr>
     <tr><td><a href="https://www.lexology.com/library/detail.aspx?g=e30e7d54-3c7f-4ca0-8a22-478227a9b5ec">types of consensus mechanisms<a></td>
         <td>Proof of Work, Proof of Stake, Delegated Proof of Stake, Consensus as a Service</td></tr>
+    <tr><td><a href="https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/">types of consensus mechanisms<a></td>
+        <td>view the article for details</td></tr>
     <tr><td><a href="https://www.investopedia.com/terms/1/51-attack.asp">51% attack</a></td>
         <td></td></tr>
     <tr><td><a href="https://www.coindesk.com/learn/centralized-exchange-cex-vs-decentralized-exchange-dex-whats-the-difference/">CeX vs DeX</a></td>
         <td></td></tr>
     <tr><td><a href="https://www.investopedia.com/terms/m/mining-pool.asp">pooling</a></td>
-        <td>the process of pooling resources by miners who share their processing power over a network to split the reward equally acc to the amount of work they contributed to  find the block</td>
-        <td>-</td></tr>   
+        <td>the process of pooling resources by miners who share their processing power over a network to split the reward equally acc to the amount of work they contributed to  find the block</td></tr>   
     <tr><td><a href="https://www.mycryptopedia.com/scriptpubkey-scriptsig/">scriptsig and script pub</a></td>
         <td>-</td></tr>
       <tr><td><a href="https://academy.bit2me.com/en/what-is-a-seed-node/">seed node</a></td>
         <td>A seed node is a special node that allows the incorporation of new nodes to the network and maintains the strength of the network at all times, by allowing them to synchronize and obtain a copy of the data from the blockchain, replicating it and adding resistance and security to it.</td></tr>
      <tr><td><a href="https://www.cmcmarkets.com/en/learn-cryptocurrencies/what-is-a-blockchain-fork">forking</a></td>
         <td><a href="https://en.wikipedia.org/wiki/Fork_(blockchain)">wiki</a></td></tr>
-      
+     <tr><td><a href="t.ly/UCm6">ECDSA</a></td>
+        <td>ECDSA is a digital signature algorithm that makes use of ECC to create the key pairs used in the signing and verification process of the digital signature. Because of the advantages of ECC compared to other public-key algorithms, it is commonly used in blockchain applications to sign transactions or events.</td></tr>
+     <tr><td><a href="t.ly/Q8Aw">GOSSIP protocol</a></td>
+        <td>A gossip protocol or epidemic protocol is a procedure or process of computer peer-to-peer communication that is based on the way epidemics spread. Some distributed systems use peer-to-peer gossip to ensure that data is disseminated to all members of a group.</td></tr>
+     <tr><td><a href="t.ly/RnBp">NTP protocol</a></td>
+        <td>The Network Time Protocol (NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks.</td></tr>
+     <tr><td><a href="t.ly/J81R">SAFETY and LIVENESS</a></td>
+        <td> ---</td></tr>
+     <tr><td><a href="t.ly/n0lX">FLP impossibility</a></td>
+        <td>The FLP impossibility result for asynchronous deterministic consensus. In a fully asynchronous message-passing distributed system, in which at least one process may have a crash failure, it has been proven in the famous FLP impossibility result that a deterministic algorithm for achieving consensus is impossible.</td></tr>
+     <tr><td><a href="">classical distributed consensus algorithm</a></td>
+        <td><b>Statement : SAFETY IS PREFERRED OVER LIVENESS</b></td></tr>
+     <tr><td><a href="">Nakamoto distributed consensus algorithm (open-consensus)</a></td>
+        <td><b>Statement : LIVENESS IS PREFERRED OVER SAFETY (with minimum guarenteed safety given)</b></td></tr>
 </table>
 <h4>articles/posts</h4>
 <table>
