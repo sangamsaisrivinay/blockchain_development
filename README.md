@@ -163,9 +163,11 @@
     <tr><td><a href="https://www.investopedia.com/web-20-web-30-5208698"> web1.0 vs 2.0 vs 3.0</a></td>
         <td>gives a brief explanation about evolution of web and the developments made</td></tr>
     <tr><td><a href="https://hackernoon.com/gaining-clarity-on-key-terminology-bitcoin-versus-blockchain-versus-distributed-ledger-technology-7b43978a64f2">terminologies</a></td>
-        <td>understand the difference b/w BTC, blockchain, and distributed ledgers</td></tr>
+        <td>BTC, blockchain, and distributed ledgers</td></tr>
     <tr><td><a href="https://www.javatpoint.com/blockchain-merkle-tree">merkle tree</a></td>
         <td>-</td></tr>
+    <tr><td><a href="">bootstraping</a></td>
+        <td> Bootstrapping is the process of getting a software development project moving from a standing start.</td></tr>
     <tr><td><a href="https://www.javatpoint.com/blockchain-double-spending">double spending</a></td>
         <td>-</td></tr>
     <tr><td><a href="https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969">byzantine problem</a></td>
@@ -194,10 +196,14 @@
         <td></td></tr>
     <tr><td><a href="https://www.investopedia.com/terms/p/permissioned-blockchains.asp">permissioned Blockchain models</a></td>
         <td></td></tr>
-    <tr><td><a href="https://www.lexology.com/library/detail.aspx?g=e30e7d54-3c7f-4ca0-8a22-478227a9b5ec">types of consensus mechanisms<a></td>
-        <td>Proof of Work, Proof of Stake, Delegated Proof of Stake, Consensus as a Service</td></tr>
-    <tr><td><a href="https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/">types of consensus mechanisms<a></td>
-        <td>view the article for details</td></tr>
+    <tr><td><a href="https://en.wikipedia.org/wiki/Proof_of_work">Proof of Work(PoW)</a></td>
+        <td>Proof of Work(PoW) is the original consensus algorithm in a blockchain network. The algorithm is used to confirm the transaction and creates a new block to the chain. ... The main working principle of proof of work is a mathematical puzzle which can easily prove the solution.</td></tr>
+    <tr><td><a href="https://en.wikipedia.org/wiki/Proof_of_stake">Proof of Stake(PoS)</a></td>
+        <td>Proof of stake (PoS) protocols are a class of consensus mechanisms for blockchains that work by selecting validators in proportion to their quantity of holdings in the associated cryptocurrency. This is done to avoid the computational cost of proof of work schemes.</td></tr>
+    <tr><td><a href="https://www.investopedia.com/terms/p/proof-burn-cryptocurrency.asp">Proof of Burn(PoB)</a></td>
+        <td>Proof of burn (POB) is an alternative consensus algorithm that tries to address the high energy consumption issue of a POW system. POB is often called a POW system without energy waste. It operates on the principle of allowing miners to “burn” virtual currency tokens.</td></tr>
+    <tr><td><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiX_9n0taD2AhWN7XMBHdRwB8AQFnoECAMQAQ&url=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Fp%2Fproof-elapsed-time-cryptocurrency.asp&usg=AOvVaw30VOrnjzdHdcyC8nzAOH1k">Proof of Elapsed Time(PoET)</a></td>
+        <td>PoET is a consensus algorithm designed to solve the performance issues faced by existing consensus protocols. It solves the Byzantine Generals' problem using the trusted execution environment. Due to its trusted execution model, it is only suitable for a permissioned blockchain network. PoET consensus has been implemented in Hyperledger's Sawtooth, which is a permissioned blockchain project backed by Intel. The trusted execution environment (TEE) in the network is achieved by Intel's Software Guard Extensions (SGX), which are instruction sets that allow user code to allocate private memory regions.</td></tr>
     <tr><td><a href="https://www.investopedia.com/terms/1/51-attack.asp">51% attack</a></td>
         <td></td></tr>
     <tr><td><a href="https://www.coindesk.com/learn/centralized-exchange-cex-vs-decentralized-exchange-dex-whats-the-difference/">CeX vs DeX</a></td>
