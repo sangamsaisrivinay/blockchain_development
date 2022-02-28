@@ -227,9 +227,11 @@
      <tr><td><a href="t.ly/n0lX">FLP impossibility</a></td>
         <td>The FLP impossibility result for asynchronous deterministic consensus. In a fully asynchronous message-passing distributed system, in which at least one process may have a crash failure, it has been proven in the famous FLP impossibility result that a deterministic algorithm for achieving consensus is impossible.</td></tr>
      <tr><td><a href="">classical distributed consensus algorithm</a></td>
-        <td><b>Statement : SAFETY IS PREFERRED OVER LIVENESS</b></td></tr>
+         <td><b>Statement : SAFETY IS PREFERRED OVER LIVENESS</b></td></tr>
      <tr><td><a href="">Nakamoto distributed consensus algorithm (open-consensus)</a></td>
-        <td><b>Statement : LIVENESS IS PREFERRED OVER SAFETY (with minimum guarenteed safety given)</b></td></tr>
+         <td><b>Statement : LIVENESS IS PREFERRED OVER SAFETY (with minimum guarenteed safety given) </b></td></tr>
+     <tr><td><a href="https://www.jsonrpc.org/specification">Json RPC 2.0 specification</a></td>
+         <td>~</td>
 </table>
 <h4>articles/posts</h4>
 <table>
