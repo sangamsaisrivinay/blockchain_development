@@ -130,6 +130,7 @@
           <td>gives brief idea about how block chain works <br> you can find the notes <a href="https://github.com/sangamsaisrivinay/blockchain_development/blob/main/telusko-blockchain.pdf">here</a></td></tr>
       <tr><td><a href="https://youtube.com/playlist?list=PLsyeobzWxl7pGh8x5C2hsu3My4ei-eX1Y">corda</a></td>
           <td>play list on corda</td></tr>
+      <tr><td>![solidity, ethereum,smartcontracts,web3py,NFTs,DeFi.. on freecodecamp]("https://youtu.be/M576WGiDBdQ")</td>
 </table>
 
 <h4>blockchain based companies</h4>
