@@ -145,6 +145,9 @@
           <td>Polygon</td>
           <td><a href="https://www.cloudways.com/blog/best-startups-watch-out/#blockchain">startups</a></td>
       </tr>
+  <tr>
+    <td><a href="https://epns.io/">Ethereum Push Notification Service(EPNS)</a></td>
+  </tr>
   </table>
 <h4>popular websites for NFTs and web3 based games</h4>
 <table>
