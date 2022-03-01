@@ -238,6 +238,12 @@
          <td><b>Statement : LIVENESS IS PREFERRED OVER SAFETY (with minimum guarenteed safety given) </b></td></tr>
      <tr><td><a href="https://www.jsonrpc.org/specification">Json RPC 2.0 specification</a></td>
          <td>~</td>
+     </tr>
+     <tr><td>RPC</td>
+         <td>RPC(Remote Procedure Call) is a set of protocols and interfaces that the client interacts with blockchain system. The user can query the blockchain related information (such as block number, blocks, node connection, etc.)</td></tr>
+     <tr><td>RPC methods</td>
+         <td><a href="https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/ethereum/eth1.0-apis/assembled-spec/openrpc.json">check here</a></td>
+       </tr>
 </table>
 <h4>articles/posts</h4>
 <table>
