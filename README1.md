@@ -272,6 +272,18 @@ Contributions welcome!
   <li>Push to the branch(<code>git push origin YOUR_BRANCH_NAME</code>)</li>
   <li>Create a new Pull Request</li>
 </ol>
+
+<h1>New Readme is created.Move there to contribute</h1>
+<table>
+  <tr>
+    <td><h5>click on the image to redirect to new README</h5></td>
+  </tr>
+<tr>
+  <td>
+  <a href="https://www.github.com/sangamsaisrivinay/blockchain_development/README.md"><img src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/githubhero.jpg" height="500" width="1024" alt="go to new readme"></a>
+  </td>
+  </tr>
+  </table>
 <h2>If you find this resource helpful, give it a ⭐<br> thankyou!❤️</h2>
 
 
