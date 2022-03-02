@@ -273,7 +273,7 @@ Contributions welcome!
   <li>Create a new Pull Request</li>
 </ol>
 
-<h1>New Readme is created.Move there to contribute</h1>
+<h1>New Readme is created. Move there to contribute 🚧</h1>
 <table>
   <tr>
     <td><h5>click on the image to redirect to new README</h5></td>
@@ -284,7 +284,7 @@ Contributions welcome!
   </td>
   </tr>
   </table>
-<h2>If you find this resource helpful, give it a ⭐<br> thankyou!❤️</h2>
+<h2>If you find this resource helpful, give it a ⭐<br> THANK YOU!❤️</h2>
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=blockchain_development.README.md)
