@@ -280,7 +280,7 @@ Contributions welcome!
   </tr>
 <tr>
   <td>
-  <a href="https://www.github.com/sangamsaisrivinay/blockchain_development/README.md"><img src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/githubhero.jpg" height="500" width="1024" alt="go to new readme"></a>
+  <a href="https://github.com/sangamsaisrivinay/blockchain_development/blob/main/README.md"><img src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/githubhero.jpg" height="500" width="1024" alt="go to new readme"></a>
   </td>
   </tr>
   </table>
