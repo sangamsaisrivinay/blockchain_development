@@ -66,6 +66,13 @@
         <tr><td><a href="https://github.com/sangamsaisrivinay/torrent-files/blob/main/udemy%7C%7Cudacity.md">--find more here</a></td>
             <td>-</td></tr>
   </table>
+  <h4>institutions offering blockchain technology courses in india</h4>
+  <table>
+  <tr>
+    <td><a href="https://coursetakers.com/india/professional/it/blockchain-technology">check here</a></td>
+  </tr>
+  </table>
+  
   <h4>documentation</h4>
   <table>
         <tr><td><b>PUBLIC BLOCKCHAINS</b></td>
