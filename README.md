@@ -14,7 +14,10 @@
 
 <h2>glossary</h2>
 <table>
-  
+  <tr><td><a href="https://en.m.wikipedia.org/wiki/Paxos_(computer_science)">paxos</a></td>
+      <td>~</td></tr>
+  <tr><td><a href="https://en.m.wikipedia.org/wiki/State_machine_replication#:~:text=In%20computer%20science%2C%20state%20machine,client%20interactions%20with%20server%20replicas.">state machine replication</a></td>
+      <td>~</td></tr>
 </table>
 
 
