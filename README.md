@@ -18,6 +18,12 @@
       <td>~</td></tr>
   <tr><td><a href="https://en.m.wikipedia.org/wiki/State_machine_replication#:~:text=In%20computer%20science%2C%20state%20machine,client%20interactions%20with%20server%20replicas.">state machine replication</a></td>
       <td>~</td></tr>
+  <tr><td><a href="https://www.mdpi.com/2071-1050/12/7/2824/pdf">6 layers of blockchain</a></td>
+      <td>~</td></tr>
+  <tr><td><a href="https://phemex.com/academy/bitcoin-layer-1-vs-2-vs-3">layer 1,2,3 blockchains</a></td>
+      <td>~</td></tr>
+  <tr><td><a href="https://www.coinbase.com/learn/crypto-basics/what-is-polygon#:~:text=Polygon%20is%20a%20%E2%80%9Clayer%20two,fees%2C%20staking%2C%20and%20more.">polygon - layer2 scaling solution for ethereum</a></td>
+      <td>~</td></tr>
 </table>
 
 
