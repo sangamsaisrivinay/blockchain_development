@@ -22,6 +22,7 @@
           <td><a href="https://drive.google.com/file/d/1zc974-TjN1BGmXvgvZ12RF5sOFvgSHdh/view">week 5</a></td>
           <td><a href="https://drive.google.com/file/d/1fI7HrrXAcX9pxP-e-AB1K5TomrxX6KCx/view">week 6</a></td>
           <td><a href="https://drive.google.com/file/d/1jFc889zmYyWNgbNe_40k9TNk5D5mTaYn/view">week 7</a></td>
+          <td><a href="https://drive.google.com/file/d/1wfACn0u2OYQzVNkKc7w2wzjEEAPCeOW5/view">week 8</a></td>
         </tr> 
   </table>
   <h4>nptel hand-written notes</h4>
