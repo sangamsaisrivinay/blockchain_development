@@ -16,5 +16,5 @@
       <li>https://hackmd.io/@nearly-learning/ncd-1-1d</li>
     </ul>
   <li>Rust(smart contracts)-Near(blockchain)</li>
-  <li>solana</li>
+  <li>Rust-solana</li>
   </ul>
