@@ -15,4 +15,6 @@
       <li>https://learnnear.club/courses/near-certified-developer/</li>
       <li>https://hackmd.io/@nearly-learning/ncd-1-1d</li>
     </ul>
+  <li>Rust(smart contracts)-Near(blockchain)</li>
+  <li>solana</li>
   </ul>
