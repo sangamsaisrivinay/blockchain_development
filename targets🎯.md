@@ -10,4 +10,9 @@
   <li>smartcontract programmer</li>
   <li>eat the blocks</li>
   <li>dapp university</li>
+  <li>near certified developer
+    <ul><li>https://www.near.university/courses/near-certified-developer</li>
+      <li>https://learnnear.club/courses/near-certified-developer/</li>
+      <li>https://hackmd.io/@nearly-learning/ncd-1-1d</li>
+    </ul>
   </ul>
