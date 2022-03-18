@@ -24,6 +24,9 @@
           <td><a href="https://drive.google.com/file/d/1jFc889zmYyWNgbNe_40k9TNk5D5mTaYn/view">week 7</a></td>
           <td><a href="https://drive.google.com/file/d/1wfACn0u2OYQzVNkKc7w2wzjEEAPCeOW5/view">week 8</a></td>
         </tr> 
+        <tr>
+          <td><a href="https://drive.google.com/file/d/167-GizxxW-uHiFnONxGX_11zRQpFa996/view">week 9</a></td>
+        </tr>
   </table>
   <h4>nptel hand-written notes</h4>
   <table>
