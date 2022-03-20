@@ -17,4 +17,6 @@
     </ul>
   <li>Rust(smart contracts)-Near(blockchain)</li>
   <li>Rust-solana</li>
-  </ul>
+<li>learn web3 <a href="https://www.learnweb3.io/">https://www.learnweb3.io/
+  </a></li>
+</ul>
