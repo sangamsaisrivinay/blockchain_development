@@ -19,4 +19,6 @@
   <li>Rust-solana</li>
 <li>learn web3 <a href="https://www.learnweb3.io/">https://www.learnweb3.io/
   </a></li>
+  <li>redis</li>
+  <li>sanityio</li>
 </ul>
