@@ -26,6 +26,7 @@
         </tr> 
         <tr>
           <td><a href="https://drive.google.com/file/d/167-GizxxW-uHiFnONxGX_11zRQpFa996/view">week 9</a></td>
+          <td><a href="https://drive.google.com/file/d/1_Jwd8Ey9WNk06Zruhm9zLiNWWA_SdFjj/view">week 10</a></td>
         </tr>
   </table>
   <h4>nptel hand-written notes</h4>
