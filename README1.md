@@ -11,24 +11,7 @@
     </td>
   </tr>
   </table>
-  <h4>NPTEL notes </h4>
-  <table>
-        <tr><td><a href="https://drive.google.com/file/d/15PdRrusRY0ZlASFMU_1NBTcJPH8ygVHV/view?usp=sharing">week 1</a></td>
-            <td><a href="https://drive.google.com/file/d/1660Bq-GeEgys2EDyjsvs-cwdnRivO4pK/view?usp=sharing">week 2</a></td>
-            <td><a href="https://drive.google.com/file/d/1PcjMxapc7FGc7m-nA-9gQPtoHcVtLHRA/view">week 3</a></td>
-            <td><a href="https://drive.google.com/file/d/17DHKPk1O7t8zUHb0Nrpiq-zCsksl6Jh7/view">week 4</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://drive.google.com/file/d/1zc974-TjN1BGmXvgvZ12RF5sOFvgSHdh/view">week 5</a></td>
-          <td><a href="https://drive.google.com/file/d/1fI7HrrXAcX9pxP-e-AB1K5TomrxX6KCx/view">week 6</a></td>
-          <td><a href="https://drive.google.com/file/d/1jFc889zmYyWNgbNe_40k9TNk5D5mTaYn/view">week 7</a></td>
-          <td><a href="https://drive.google.com/file/d/1wfACn0u2OYQzVNkKc7w2wzjEEAPCeOW5/view">week 8</a></td>
-        </tr> 
-        <tr>
-          <td><a href="https://drive.google.com/file/d/167-GizxxW-uHiFnONxGX_11zRQpFa996/view">week 9</a></td>
-          <td><a href="https://drive.google.com/file/d/1_Jwd8Ey9WNk06Zruhm9zLiNWWA_SdFjj/view">week 10</a></td>
-        </tr>
-  </table>
+ 
   <h4>nptel hand-written notes</h4>
   <table>
         <tr>
