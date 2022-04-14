@@ -53,7 +53,24 @@
                 ♦️ solanacookbook. com<br/>
                 ♦️ useweb3. xyz</td></tr>
         <tr><td><a href="https://github.com/sangamsaisrivinay/torrent-files/blob/main/udemy%7C%7Cudacity.md">--find more here</a></td>
-            <td>-</td></tr>
+            <td>Games with Learning
+
+Building Smart Contracts
+http://cryptozombies.io/
+
+Hacking Smart Contracts For Fun
+https://www.damnvulnerabledefi.xyz/
+
+https://ethernaut.openzeppelin.com/
+
+Build on Ethereum,Solana,Near,Polygon Blockchain
+https://openquest.xyz/
+
+Build on Solana Blockchain
+https://www.startonsolana.com/
+
+Build on Buildspace
+https://buildspace.so/</td></tr>
   </table>
   <h4>institutions offering blockchain technology courses in india</h4>
   <table>
